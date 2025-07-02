@@ -9,3 +9,4 @@ git clone https://github.com/kullanici_adiniz/kodluyoruzilkrepo.git
 
 ![Image](https://github.com/user-attachments/assets/3745aac4-3d83-45b6-82b8-26991d6bedf3)
 
+![Image](https://private-user-images.githubusercontent.com/204700151/461563151-3745aac4-3d83-45b6-82b8-26991d6bedf3.png)
