@@ -7,6 +7,5 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ```bash
 git clone https://github.com/kullanici_adiniz/kodluyoruzilkrepo.git
 
-## Proje Görseli
-![Proje Resmi](1744199572971.png)
+
 
